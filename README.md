@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Vip
-- 👀 Creator of BitVipCoins.com
-- 🌱 I’m currently looking to revolutionize Physcial Bitcoins
-- 💞️ I’m always looking to collaborate with fellow creators
-- 📫 How to reach me Bitvipcoins@gmail.com
+-  Hi, I’m Vip, Creator of BitVipCoins. I’m currently on a mission to revolutionize Physcial Bitcoins.
+-  I’m always looking to collaborate with fellow creators. You can reach me at Bitvipcoins@gmail.com
+-  You may also reach me by my bitcoin talk username Kazkaz27.
