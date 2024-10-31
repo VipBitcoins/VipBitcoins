@@ -1,0 +1,3 @@
+python -m venv myenv
+(Windows) myenv\Scripts\activate
+(Linux/MacOS) source myenv/bin/activate
