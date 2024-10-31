@@ -1,8 +1,12 @@
-Download the lasted version of python
+For the most secure KeyGen creation dowload the following onto a usb stick and then transfer onto an Airgapped computer
+Download the lastest version of python
 Dowload the MiniKeyGen Source files I provided
+Dowload bitaddress.org
 Open the CMD
-Run the following codes in the CMD I provided below (5 only needs to be ran 1 time) (6,7 are specific to your operating system)
+Run the following codes in the CMD I provided below (7 only needs to be ran 1 time) (8,9 are specific to your operating system - choose correctly)
 python -m venv myenv
 (Windows) myenv\Scripts\activate
 (Linux/MacOS) source myenv/bin/activate
 Run the specific MiniKeyGen you wish to use (base57, base32, mini22) by typing "python base57.py", "python base32.py" or "python mini22.py"
+These KeyGens create private keys utilize bitaddress.org OFFLINE to generate public keys by inputting your private key 
+Congrats!
