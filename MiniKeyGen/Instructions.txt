@@ -1,6 +1,6 @@
 For the most secure KeyGen creation dowload the following onto a usb stick and then transfer onto an Airgapped computer
 Download the lastest version of python
-Dowload the MiniKeyGen Source files I provided
+Dowload the MiniKeyGen Source files provided
 Dowload bitaddress.org
 Open the CMD
 Run the following codes in the CMD I provided below (7 only needs to be ran 1 time) (8,9 are specific to your operating system - choose correctly)
